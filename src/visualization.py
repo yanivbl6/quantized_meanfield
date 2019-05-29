@@ -19,7 +19,7 @@ class Subplot:
     self.fig = fig
     self.axs = axs
     if (autoC):
-      fig2 , axs2 = plt.subplots(1, self.x, figsize=( 8, 4))
+      fig2 , axs2 = plt.subplots(1, self.x, figsize=( 16, 16))
       self.axs2 = axs2
       self.fig2 = fig2
 
