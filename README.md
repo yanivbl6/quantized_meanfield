@@ -8,6 +8,6 @@ A mean field theory of quantized deep networks: the quantization-depth-generaliz
 * Standard python packages, including: numpy, matplotlib, scipy
 
 # Usage
-No installation required
-The python files in "./src" includes several tools usage throughout the research.
-The jupyter-examples include examples, which utilizes several of those tools.
+No installation required.  
+The python files in "./src" includes several tools usage throughout the research.  
+The jupyter-examples include examples, which utilizes several of those tools.  
