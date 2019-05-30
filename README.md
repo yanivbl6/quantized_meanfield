@@ -1,5 +1,7 @@
 # Quantized Meanfield
-A mean field theory of quantized deep networks: the quantization-depth-generalization tradeoff
+This repository supplementary for the paper:
+A mean field theory of quantized deep networks: A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off
+And includes several tools to assist research of deep-neural-networks using statistical physics
 
 # Requirements:
 * Python 3.0
