@@ -1,5 +1,5 @@
 # Quantized Meanfield
-This repository supplementary for the paper:
+This repository serves as supplementary for the paper:
 *A mean field theory of quantized deep networks: A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off.*  
 And includes several tools to assist research of deep-neural-networks using statistical physics
 
@@ -12,4 +12,4 @@ And includes several tools to assist research of deep-neural-networks using stat
 # Usage
 No installation required.  
 The python files in "./src" includes several tools usage throughout the research.  
-The jupyter-examples include examples, which utilizes several of those tools.  
+The jupyter-examples include examples, which utilizes several of those tools, and allow reproduction of the main figures in the paper.
