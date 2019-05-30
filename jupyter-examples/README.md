@@ -1,4 +1,4 @@
-This library include code examples in jupyter-lab format.  
+This directory includes code examples in jupyter-lab format.  
 
 # Main Examples
 1. Manifold_Visual.ipynb- Simulate propogation of manifolds in feed-forward-networks (Figure #1 from the paper)
